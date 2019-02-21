@@ -1,0 +1,10 @@
+C:\Users\Donald\Desktop\tech\programming two\social media\SocialMediaApp\SocialMediaApp\bin\Debug\SocialMediaApp.exe.config
+C:\Users\Donald\Desktop\tech\programming two\social media\SocialMediaApp\SocialMediaApp\bin\Debug\SocialMediaApp.exe
+C:\Users\Donald\Desktop\tech\programming two\social media\SocialMediaApp\SocialMediaApp\bin\Debug\SocialMediaApp.pdb
+C:\Users\Donald\Desktop\tech\programming two\social media\SocialMediaApp\SocialMediaApp\obj\Debug\SocialMediaApp.csprojAssemblyReference.cache
+C:\Users\Donald\Desktop\tech\programming two\social media\SocialMediaApp\SocialMediaApp\obj\Debug\SocialMediaApp.Form1.resources
+C:\Users\Donald\Desktop\tech\programming two\social media\SocialMediaApp\SocialMediaApp\obj\Debug\SocialMediaApp.Properties.Resources.resources
+C:\Users\Donald\Desktop\tech\programming two\social media\SocialMediaApp\SocialMediaApp\obj\Debug\SocialMediaApp.csproj.GenerateResource.cache
+C:\Users\Donald\Desktop\tech\programming two\social media\SocialMediaApp\SocialMediaApp\obj\Debug\SocialMediaApp.csproj.CoreCompileInputs.cache
+C:\Users\Donald\Desktop\tech\programming two\social media\SocialMediaApp\SocialMediaApp\obj\Debug\SocialMediaApp.exe
+C:\Users\Donald\Desktop\tech\programming two\social media\SocialMediaApp\SocialMediaApp\obj\Debug\SocialMediaApp.pdb
